@@ -2,14 +2,12 @@
   "name": "@r3tro/ui",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "@r3tro/business": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
